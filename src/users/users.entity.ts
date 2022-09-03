@@ -4,7 +4,7 @@ import {
     AfterUpdate,
     Entity,
     Column,
-    PrimaryGeneratedColumn 
+    PrimaryGeneratedColumn
 } from "typeorm";
 
 
